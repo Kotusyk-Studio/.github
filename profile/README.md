@@ -1,5 +1,7 @@
 ## Kotusyk Studio - Ukrainian based community for those who wants to influence the world through informational technologies
 
+[Kotusyk photo](Kotusyk Studio photo logo.png)
+
 <!--
 
 **Here are some ideas to get you started:**
